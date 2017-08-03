@@ -1,3 +1,3 @@
 # Bottson
 repository
-im Botson nice tomeet you
+im Botson nice to meet you
